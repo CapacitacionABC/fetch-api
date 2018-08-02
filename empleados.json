@@ -1,0 +1,20 @@
+[{
+        "id": 1,
+        "nombre": "Alfredo Bravo",
+        "empresa": "IteraSoft",
+        "cargo": "Desarrollador"
+    },
+    {
+        "id": 2,
+        "nombre": "Andrea Bravo",
+        "empresa": "IteraSoft",
+        "cargo": "Contadora"
+    },
+    {
+        "id": 1,
+        "nombre": "Neira Bravo",
+        "empresa": "IteraSoft",
+        "cargo": "Relacionista"
+    }
+
+]
